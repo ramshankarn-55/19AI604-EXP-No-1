@@ -45,6 +45,7 @@ STEP 8: Run a simple *Hello World* program to test if Rust works in VS Code. <BR
 fn main() {
     println!("Hello, Rust in VS Code!");
 }
+```
 
 ## OUTPUT:
 
